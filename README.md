@@ -1,5 +1,9 @@
 # kubecost
 
+Add kubecost helm repo:
+```bash
+helm repo add kubecost https://kubecost.github.io/cost-analyzer/
+```
 
 Step 1: Install Kubecost
 
