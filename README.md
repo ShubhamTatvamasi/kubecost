@@ -28,3 +28,10 @@ Step 3: See the data!
 You can now view the deployed frontend by visiting the following link. Publish :9090 as a secure endpoint on your cluster to remove the need to port forward.
 
 http://localhost:9090
+
+### Uninstall
+
+```bash
+helm uninstall kubecost -n kubecost
+```
+
